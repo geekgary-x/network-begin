@@ -1,6 +1,5 @@
 #include <LibName/Core/test.h>
 #include <iostream>
-
 namespace LibName {
 namespace Core {
 void test()
